@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 08 Dec 2024 07:46:37 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>내 첫 블로그!</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sun, 08 Dec 2024 07:46:37 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;wow&#34;&gt;WOW&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR-0QjhVUWNE2P4c-XJrePTtmnpsiyxhUKAke5Pb2oP32jBAVuyej1jMWnw8WiNpfcsPsUtEU5KHq9qjH6oLzmzMFAAoJhL73V24WWb9Q&#34; alt=&#34;lifeisbeautiful&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
