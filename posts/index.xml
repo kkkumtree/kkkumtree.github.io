@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 어서오세요 자파리파크에</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on 어서오세요 자파리파크에</description>
+    <generator>Hugo</generator>
+    <language>ko-kr</language>
+    <lastBuildDate>Sat, 26 Jul 2025 05:59:47 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 26 Jul 2025 05:59:47 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;h2 id=&#34;hello-world&#34;&gt;Hello world&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Hi&lt;/li&gt;&#xA;&lt;li&gt;Nice to meet you.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
