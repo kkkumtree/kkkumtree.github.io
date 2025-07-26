@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/workspaces/live-susc-2025/srcs",
+	"sourceRoot": "/home/runner/work/kkkumtree.github.io/kkkumtree.github.io",
 	"sources": [
 		"ananke/css/main.css"
 	],
