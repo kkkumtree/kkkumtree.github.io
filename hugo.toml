@@ -1,0 +1,4 @@
+baseURL = 'https://kkkumtree.github.io/'
+languageCode = 'ko-kr'
+title = '제발 합격 하게해주세요 역시 에듀윌'
+theme = 'ananke'
